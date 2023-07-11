@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: My Notes Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: My Notes
+  m_TableCollectionNameGuidString: 45e65bc13b84b8b4e9439f61872d5e43
+  m_Entries:
+  - m_Id: 20249534464
+    m_Key: My Notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111943997677568
+    m_Key: Fast Noted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527945306693632
+    m_Key: Recycle-bin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 528630123290624
+    m_Key: New Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707749859516416
+    m_Key: Edit Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710412101705728
+    m_Key: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100278618611712
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100424416813056
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149530086531072
+    m_Key: Rename Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149641885704192
+    m_Key: Delete Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164337250525184
+    m_Key: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164464547651584
+    m_Key: Delete Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640372042883072
+    m_Key: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640757088378880
+    m_Key: Move to Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3866612100194304
+    m_Key: Undo Edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6972755336978432
+    m_Key: To the end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977451552366592
+    m_Key: Search in all folders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977753785524224
+    m_Key: Search
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 795869806729101338
+  references:
+    version: 2
+    RefIds:
+    - rid: 795869806729101338
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1687054812386

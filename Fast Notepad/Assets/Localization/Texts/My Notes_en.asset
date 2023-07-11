@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: My Notes_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 45e65bc13b84b8b4e9439f61872d5e43, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 795869806729101342
+  m_TableData:
+  - m_Id: 20249534464
+    m_Localized: My Notes
+    m_Metadata:
+      m_Items:
+      - rid: 795869806729101342
+  - m_Id: 111943997677568
+    m_Localized: Fast Noted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527945306693632
+    m_Localized: Recycle-bin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 528630123290624
+    m_Localized: New Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707749859516416
+    m_Localized: Edit Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710412101705728
+    m_Localized: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100278618611712
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100424416813056
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149530086531072
+    m_Localized: Rename Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149641885704192
+    m_Localized: Delete Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164337250525184
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164464547651584
+    m_Localized: Notes will be moved to recycle-bin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640372042883072
+    m_Localized: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640757088378880
+    m_Localized: Move to Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3866612100194304
+    m_Localized: Undo Edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6972755336978432
+    m_Localized: To the end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977451552366592
+    m_Localized: Search in all folders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977753785524224
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 795869806729101342
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060f7b604000000

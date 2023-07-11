@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: My Notes_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 45e65bc13b84b8b4e9439f61872d5e43, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 795869806729101343
+  m_TableData:
+  - m_Id: 20249534464
+    m_Localized: Mes notes
+    m_Metadata:
+      m_Items:
+      - rid: 795869806729101343
+  - m_Id: 111943997677568
+    m_Localized: "Not\xE9 rapide"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527945306693632
+    m_Localized: Corbeille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 528630123290624
+    m_Localized: Nouveau dossier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707749859516416
+    m_Localized: Modifier le dossier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710412101705728
+    m_Localized: "Compl\xE9t\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100278618611712
+    m_Localized: D'accord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100424416813056
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149530086531072
+    m_Localized: Renommer le dossier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149641885704192
+    m_Localized: Supprimer le dossier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164337250525184
+    m_Localized: Supprimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164464547651584
+    m_Localized: "Les notes seront d\xE9plac\xE9es vers la corbeille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640372042883072
+    m_Localized: Copie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640757088378880
+    m_Localized: "D\xE9placer vers un dossier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3866612100194304
+    m_Localized: Annuler la modification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6972755336978432
+    m_Localized: "Jusqu'\xE0 la fin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977451552366592
+    m_Localized: Rechercher dans tous les dossiers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6977753785524224
+    m_Localized: Recherche
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 795869806729101343
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060f7b604000000
